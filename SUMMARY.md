@@ -1,0 +1,13 @@
+- [x] Generar una aplicación Laravel nueva.
+- [x] La idea sería construir una aplicación con estructura de "informes", es decir, su cabecera de título, sus parámetros de entrada (algunos de los cuales se cargan desde la base de datos), sus botones de acciones varias (actualizar, XLS, PDF), y su grid.
+- [x] Los parámetros deberían incluir selectores, fechas, checks, cantidades, y deberíamos incluir validación para alguno de ellos.
+- [~] Que alguno de los parámetros, si no se suministra en la URL, se pida desde un diálogo.
+- [x] Que uno de los parámetros se sustente en un complemento, que además sería reutilizado.
+- [x] Incluir atajo de teclado para alguna de las acciones.
+- [x] Que alguno de los datos mostrados en el grid enlace con otra "aplicación" pasando parámetros.
+- [x] Los resultados presentados en el grid se leerán desde sp o similar. Darle aspecto lo más adecuado posible al grid. Incluir textos emergentes para completar descripciones que no se ven completas. Con paginación. Trama. Incluir algún icono indicador de algo en el grid, y también una columna que cambie de color según valor. A ser posible, incluir al menos totales. Incluir también ordenación y filtrado, si se puede. Si podemos, agrupar al menos por un valor.
+- [x] Nos gustaría incluir también en el grid alguna acción que actualice la base de datos.
+- [~] La aplicación tendrá validación de usuario. Integración con Active Directory.
+- [ ] Si da tiempo, incluir algún elemento "graficador".
+- [x] Si da tiempo, incluir enviar por email resultados.
+- [x] Complemento para gestionar galerías de imágenes.
